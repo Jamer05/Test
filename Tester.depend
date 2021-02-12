@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1613101816 source:c:\users\default.desktop-e4gvif1\documents\c++ project\tester\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Prelim.h"
+	"Midterm.h"
+	"Final.h"
+
+1613101549 c:\users\default.desktop-e4gvif1\documents\c++ project\tester\include\prelim.h
+
+1613101561 source:c:\users\default.desktop-e4gvif1\documents\c++ project\tester\src\prelim.cpp
+	"Prelim.h"
+	<iostream>
+
+1613098330 c:\users\default.desktop-e4gvif1\documents\c++ project\tester\prelim.h
+
+1613098425 source:c:\users\default.desktop-e4gvif1\documents\c++ project\tester\src\finals.cpp
+	"Finals.h"
+
+1613098425 c:\users\default.desktop-e4gvif1\documents\c++ project\tester\include\finals.h
+
+1613101565 source:c:\users\default.desktop-e4gvif1\documents\c++ project\tester\src\midterm.cpp
+	"Midterm.h"
+	<iostream>
+
+1613101536 c:\users\default.desktop-e4gvif1\documents\c++ project\tester\include\midterm.h
+
+1613100116 c:\users\default.desktop-e4gvif1\documents\c++ project\tester\include\data.h
+
+1613101634 source:c:\users\default.desktop-e4gvif1\documents\c++ project\tester\src\final.cpp
+	"Final.h"
+	<iostream>
+
+1613101489 c:\users\default.desktop-e4gvif1\documents\c++ project\tester\include\final.h
+
